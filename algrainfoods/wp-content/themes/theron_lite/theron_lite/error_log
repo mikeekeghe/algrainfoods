@@ -1,0 +1,2 @@
+[19-Jul-2014 06:58:59] PHP Fatal error:  Call to undefined function  get_header() in /home3/silvesj6/public_html/algrainfoods/wp-content/themes/theron_lite/theron_lite/index.php on line 7
+[19-Jul-2014 06:59:45] PHP Fatal error:  Call to undefined function  get_header() in /home3/silvesj6/public_html/algrainfoods/wp-content/themes/theron_lite/theron_lite/index.php on line 7

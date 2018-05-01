@@ -1,0 +1,54 @@
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover {
+color:#6a4391;
+}
+#menu li.current-menu-item a, #menu li.current_page_item a{
+color:#6a4391;
+}
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover { 
+color:#6a4391;
+background:#fff url(images/menu-blt-purple.png) 6px 15px no-repeat;
+}
+.bottom-feature .bottom-feature-left .bottom-feature-left-inner a.index-read, .bottom-feature .bottom-feature-right .bottom-feature-right-wrapper a.index-read{
+background:url(images/index-read-purple.png) no-repeat;
+}
+.index-info{
+background:#563b71 url(images/purple-sep.png) repeat-x;
+border-bottom:1px solid #724b99;
+}
+.index-info .index-info-one{
+background:url(images/mob-purple.png) 0 0 no-repeat;
+}
+.index-info .index-info-two{
+background:url(images/sms-purple.png) 0 2px no-repeat;
+padding-left:35px;
+}
+.index-info .index-info-three{
+background:url(images/timing-purple.png) 0 0 no-repeat;
+padding-left:35px;
+}
+.footer a {
+	color:#6a4391;
+}
+.footer .widget_inner .searchform {
+background: url(images/search-bg-purple.png);
+}
+a {
+    color:#6a4391;
+}
+.main-content .gallery h1, .main-content .page-content h1.contact, h1.single-heading, .page-content h1.page_title{
+    background: #652a9f; 
+}
+.main-content .full-width h1.fullwidth-heading{
+    background: #652a9f;  
+}
+.content-bar .post .read_more{
+    background:url(images/index-read-purple.png) no-repeat;
+}
+#slides .caption {
+    background: #6C5496;
+    background: rgba(108, 84, 150, .8);
+	 border:1px solid #6C5496;
+}
+#slides .caption p {
+    color: #fff;
+}

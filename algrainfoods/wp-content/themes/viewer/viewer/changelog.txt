@@ -1,0 +1,9 @@
+== Changelog ==
+
+= Theme Name: Andrina Theme Pro=
+
+= Version: 1.0 =
+
+* * Andrina Theme is created on 1/01/2012.
+
+* * Timthumb script remove, Dynamic Image Cropping script used.

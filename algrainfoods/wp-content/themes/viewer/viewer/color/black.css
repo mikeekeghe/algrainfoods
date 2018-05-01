@@ -1,0 +1,45 @@
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover {
+    color:#000;
+}
+#menu li.current-menu-item a, #menu li.current_page_item a{
+    color:#000;
+}
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover { 
+    color: #707070;
+}
+.bottom-feature .bottom-feature-left .bottom-feature-left-inner a.index-read, .bottom-feature .bottom-feature-right .bottom-feature-right-wrapper a.index-read {
+    background:url(images/index-read.png) no-repeat;
+}
+.index-info{
+    background:#7b7c7c url(images/black-sep.png) repeat-x;
+    border-bottom:1px solid #a9aeae;
+}
+.index-info .index-info-one{
+    background:url(images/mob-black.png) 0 0 no-repeat;
+}
+.index-info .index-info-two{
+    background:url(images/sms-black.png) 0 2px no-repeat;
+    padding-left:35px;
+}
+.index-info .index-info-three{
+    background:url(images/timing-black.png) 0 0 no-repeat;
+    padding-left:35px;
+}
+.footer a {
+    color:#fff;
+}
+.footer .widget_inner .searchform {
+    background: url(images/search-bg-black.png);
+}
+a {
+    color:#454444;
+}
+.main-content .gallery h1, .main-content .page-content h1.contact, h1.single-heading, .page-content h1.page_title{
+    background:#3c3c3c; 
+}
+.main-content .full-width h1.fullwidth-heading{
+    background:#3c3c3c;  
+}
+.content-bar .post .read_more{
+    background:url(images/index-read.png) no-repeat;
+}

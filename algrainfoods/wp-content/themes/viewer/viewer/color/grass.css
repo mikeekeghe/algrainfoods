@@ -1,0 +1,53 @@
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover {
+color:#466c1e;
+}
+#menu li.current-menu-item a, #menu li.current_page_item a{
+color:#466c1e;
+}
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover { 
+color:#466c1e;
+background:#fff url(images/menu-blt-grass.png) 6px 15px no-repeat;
+}
+.bottom-feature .bottom-feature-left .bottom-feature-left-inner a.index-read, .bottom-feature .bottom-feature-right .bottom-feature-right-wrapper a.index-read {
+background:url(images/index-read-grass.png) no-repeat;
+}
+.index-info{
+background:#76a876 url(images/grass-sep.png) repeat-x;
+border-bottom:1px solid #aed2ae;
+}
+.index-info .index-info-one{
+background:url(images/mob-grass.png) 0 0 no-repeat;
+}
+.index-info .index-info-two{
+background:url(images/sms-grass.png) 0 2px no-repeat;
+padding-left:35px;
+}
+.index-info .index-info-three{
+background:url(images/timing-grass.png) 0 0 no-repeat;
+padding-left:35px;
+}
+.footer a {
+	color:#466c1e;
+}
+.footer .widget_inner .searchform {
+background: url(images/search-bg-grass.png);
+}
+a {
+    color:#466c1e;
+}
+.main-content .gallery h1, .main-content .page-content h1.contact, h1.single-heading, .page-content h1.page_title{
+    background:  #4c8b1c; 
+}
+.main-content .full-width h1.fullwidth-heading{
+    background:  #4c8b1c;  
+}
+.content-bar .post .read_more{
+    background:url(images/index-read-grass.png) no-repeat;
+}
+#slides .caption {
+    background: rgba(85, 145, 85, .6);
+	 border:1px solid #559155;
+}
+#slides .caption p {
+    color: #fff;
+}
